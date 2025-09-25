@@ -1,11 +1,11 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
-		"port": "Please enter your server port",
-		"username": "Please enter the bot's username you want"
+		"host": "agalarlamcsurvi-EMst.aternos.me",
+		"port": "21126",
+		"username": "7/24bot"
 	},
 	
-	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
+	" as": "sa",
 	"logLevel": ["error", "log", "debug"],
 	"action": {
 		"commands": ["forward", "back", "left", "right", "jump"],
